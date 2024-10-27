@@ -1,0 +1,112 @@
+[
+    {
+      "playerId": 1,
+      "name": "John Smith",
+      "country": "Australia",
+      "image": "../public/cricket-batsman-powerfull-shot-vector-260nw-2515977289.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "$988,022",
+      "rating": 4.5
+    },
+    {
+      "playerId": 2,
+      "name": "Arjun Singh",
+      "country": "India",
+      "image": "../public/drawing-baseball-player-with-bat-his-hand_1235303-2213.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": "$950,000",
+      "rating": 4.00
+    },
+    {
+      "playerId": 3,
+      "name": "James Carter",
+      "country": "England",
+      "image": "../public/cartoon-illustration-boy-playing-cricket-with-pencil_618190-679.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "$800,000",
+      "rating": 3.5
+    },
+    {
+      "playerId": 4,
+      "name": "Ming Zhao",
+      "country": "China",
+      "image": "../public/cartoon-image-boy-playing-cricket-with-bat_618190-730.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": "$750,000",
+      "rating": 3.0
+    },
+    {
+      "playerId": 5,
+      "name": "Carlos Gomez",
+      "country": "West Indies",
+      "image": "../public/cricket-player-with-champions-toffee-tournament_835895-15105.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "$1 million",
+      "rating": 4.5
+    },
+    {
+      "playerId": 6,
+      "name": "David Johnson",
+      "country": "South Africa",
+      "image": "../public/cricket-wicket-with-bat-ball-vector-ai-generated-jpg-image_849407-1081.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "$900,000",
+      "rating": 4.0
+    },
+    {
+      "playerId": 7,
+      "name": "Tariq Ali",
+      "country": "Pakistan",
+      "image": "../public/picture-boy-playing-baseball-with-bat-word-it_1261916-47.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": "$700,000",
+      "rating": 3.5
+    },
+    {
+      "playerId": 8,
+      "name": "Victor Silva",
+      "country": "Sri Lanka",
+      "image": "../public/drawing-baseball-player-with-bat-his-hand_1217673-110204.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm spin",
+      "biddingPrice": "$850,000",
+      "rating": 4.0
+    },
+    {
+      "playerId": 9,
+      "name": "Yash Mehta",
+      "country": "India",
+      "image": "../public/drawing-man-playing-game-cricket_1217673-109929.jpg",
+      "role": "Wicketkeeper",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "$750,000",
+      "rating": 3.5
+    },
+    {
+      "playerId": 10,
+      "name": "Leo Hernandez",
+      "country": "Australia",
+      "image": "../public/vector-children-playing-ball_1092023-10005.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "$1.1 million",
+      "rating": 4.5
+    }
+]
