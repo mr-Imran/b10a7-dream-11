@@ -1,0 +1,123 @@
+
+#news {
+  width: 90%;
+  max-width: 1349px;
+  height: 384px;
+  margin: 20px auto;
+  border-radius: 12px;
+  position: relative;
+  z-index: 25;
+  background-color: #000000;
+}
+
+#footer {
+  position: relative;
+  height: 384px;
+  background-color: #333;
+  color: white;
+}
+
+.newsletter-background {
+  background-image: url('/bg-shadow.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  height: 250px;
+  padding: 50px;
+  color: black;
+  font-weight: 900;
+}
+
+
+#header{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+#headerxc{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+#root {
+font-family:  "Sora", sans-serif;;
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+#newsletter{
+  max-width: 110vw;
+  margin: 0 ;
+  padding: 2rem;
+  text-align: center;
+}
+
+@keyframes randomBorderColor {
+  0% {
+    border-color: red;
+  }
+  25% {
+    border-color: blue;
+  }
+  50% {
+    border-color: green;
+  }
+  75% {
+    border-color: orange;
+  }
+  100% {
+    border-color: purple;
+  }
+}
+
+.player-card {
+  transition: border-color 0.5s ease;
+}
+
+.player-card:hover {
+  animation: randomBorderColor 1s infinite;
+}
+
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
